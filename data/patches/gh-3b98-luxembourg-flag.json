@@ -1,0 +1,133 @@
+{
+	"id": 1315,
+	"name": "Luxembourg Flag",
+	"description": "The flag of the country Luxembourg located in central Europe. \nMade and designed by the Official Luxembourg R/place community. eventually they got help from the streamer ByToby. The luxembourg community and ally's of luxembourg like the catalan community kept maintaining it. while eventually giving an extra flag to monaco while also still defending and maintaining it.",
+	"links": {
+		"website": [
+			"https://www.twitch.tv/bytobi",
+			"https://www.reddit.com/r/placeluxembourg/",
+			"https://discord.gg/NNfmwcFHgr",
+			"https://placeluxembourg.lu"
+		],
+		"subreddit": [
+			"placeluxembourg"
+		],
+		"discord": [
+			"NNfmwcFHgr"
+		]
+	},
+	"path": {
+		"191-222": [
+			[
+				640,
+				-648
+			],
+			[
+				640,
+				-641
+			],
+			[
+				681,
+				-641
+			],
+			[
+				681,
+				-648
+			],
+			[
+				657,
+				-648
+			],
+			[
+				648,
+				-647
+			],
+			[
+				640,
+				-610
+			],
+			[
+				640,
+				-612
+			],
+			[
+				681,
+				-611
+			],
+			[
+				681,
+				-648
+			],
+			[
+				640,
+				-647
+			],
+			[
+				641,
+				-611
+			],
+			[
+				664,
+				-625
+			],
+			[
+				678,
+				-630
+			],
+			[
+				676,
+				-630
+			],
+			[
+				681,
+				-648
+			],
+			[
+				680,
+				-648
+			],
+			[
+				681,
+				-653
+			],
+			[
+				637,
+				-653
+			],
+			[
+				636,
+				-653
+			],
+			[
+				636,
+				-648
+			],
+			[
+				636,
+				-641
+			],
+			[
+				636,
+				-638
+			],
+			[
+				640,
+				-638
+			],
+			[
+				685,
+				-648
+			],
+			[
+				685,
+				-641
+			]
+		]
+	},
+	"center": {
+		"191-222": [
+			673,
+			-619
+		]
+	}
+}
