@@ -1,0 +1,69 @@
+{
+	"id": -1,
+	"name": "Flag of Monaco",
+	"description": "The flag of Monaco originaly with only the letters mc. And later expanded and with fully written monaco! thanks to the neighbouring r/placeluxembourg because they didden't need an extra flag.\n\nAs far as the placeLuxembourg community knows there was no complete Monaco community behind it.",
+	"links": {
+		"website": [
+			"https://placeluxembourg.lu"
+		],
+		"subreddit": [
+			"placeluxembourg"
+		]
+	},
+	"path": {
+		"199-257": [
+			[
+				636,
+				-653
+			],
+			[
+				672,
+				-653
+			],
+			[
+				672,
+				-648
+			],
+			[
+				636,
+				-648
+			],
+			[
+				636,
+				-653
+			]
+		],
+		"157-198": [
+			[
+				636,
+				-653
+			],
+			[
+				651,
+				-653
+			],
+			[
+				651,
+				-648
+			],
+			[
+				636,
+				-648
+			],
+			[
+				636,
+				-653
+			]
+		]
+	},
+	"center": {
+		"199-257": [
+			654,
+			-650
+		],
+		"157-198": [
+			644,
+			-650
+		]
+	}
+}
