@@ -1,0 +1,46 @@
+{
+	"id": 1653,
+	"name": "Luxemburg, the small Country, with a big impact",
+	"description": "Made by the official r/placeluxembourg discord community.\n\nOn the right, you can see \"De Roude Léiw\" (The red lion), which is the emblem or mascot of Luxembourg.\n\nOn the left, you can see the \"Gëlle Fra\" (golden Woman) which is the Monument of Remembrance for the war. It is dedicated to the thousands of Luxembourgers who volunteered for service in the armed forces of the Allied Powers during both World Wars and the Korean War.\n\nIn the middle is the country outline of Luxembourg with the flag of luxembourg with the 3 colors, red, white and a light blue.",
+	"links": {
+		"website": [
+			"https://placeluxembourg.lu"
+		],
+		"subreddit": [
+			"placeluxembourg"
+		],
+		"discord": [
+			"NNfmwcFHgr"
+		]
+	},
+	"path": {
+		"145-254": [
+			[
+				640,
+				-610
+			],
+			[
+				640,
+				-641
+			],
+			[
+				681,
+				-641
+			],
+			[
+				681,
+				-610
+			],
+			[
+				640,
+				-610
+			]
+		]
+	},
+	"center": {
+		"145-254": [
+			661,
+			-625
+		]
+	}
+}
