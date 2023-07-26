@@ -1,0 +1,102 @@
+{
+	"id": 4673,
+	"name": "Luxembourgish Famous Things",
+	"description": "When the last expansion came the r/placeluxembourg came to the conclusion that their flag and primary part were stable and decided by choice of De_Nederbelg (Matthewvv) that they should expand east to make more Luxembourgish things.\n\nEventually Kademo15 designed: \n\nOn the left classic Luxembourgish Mostard. \n\nOn the right we build the famous luxembourgish cheese Kachkéis. With it being accompanied with a piece of bread and a dab of mostard. \n\nFinaly on the bottom we see The Grand Duchess Charlotte Bridge also known as the Red Bridge due to it being red.\n\nThe Background is the background of the official coat of arms of Luxembourg.\n\nThis masterpiece was crafted by the talented r/placeluxembourg community.",
+	"links": {
+		"website": [
+			"https://placeluxembourg.lu"
+		],
+		"subreddit": [
+			"placeluxembourg"
+		],
+		"discord": [
+			"VaXX27cxcT"
+		]
+	},
+	"path": {
+		"211-258": [
+			[
+				1000,
+				-644
+			],
+			[
+				1032,
+				-644
+			],
+			[
+				1032,
+				-610
+			],
+			[
+				1000,
+				-610
+			]
+		],
+		"206-210": [
+			[
+				1001,
+				-610
+			],
+			[
+				1032,
+				-610
+			],
+			[
+				1032,
+				-636
+			],
+			[
+				1000,
+				-635
+			],
+			[
+				1001,
+				-610
+			]
+		],
+		"203-205": [
+			[
+				1001,
+				-611
+			],
+			[
+				1001,
+				-611
+			],
+			[
+				1001,
+				-610
+			],
+			[
+				1032,
+				-610
+			],
+			[
+				1032,
+				-621
+			],
+			[
+				1001,
+				-620
+			],
+			[
+				1001,
+				-610
+			]
+		]
+	},
+	"center": {
+		"211-258": [
+			1016,
+			-627
+		],
+		"206-210": [
+			1016,
+			-623
+		],
+		"203-205": [
+			1017,
+			-615
+		]
+	}
+}
