@@ -1,0 +1,50 @@
+{
+	"id": -1,
+	"name": "Luxembourg part 2 ",
+	"description": "When the last expansion came the r/placeluxembourg came to the conclusion that their flag and primary part were stable and decided by choice of De_Nederbelg (Matthewvv) that they should expand east to make more Luxembourgish things.\n\nEventually Kademo15 designed:\n\nOn the left classic Luxembourgish Mostard.\n\nOn the right we build the famous luxembourgish cheese Kachkéis. With it being accompanied with a piece of bread and a  dab of mostard.\n\nFinaly on the bottom we see The Grand Duchess Charlotte Bridge also known as the Red Bridge due to it being red.\n\nThe Background is the background of the official coat of arms of Luxembourg.\nAnd ",
+	"links": {
+		"website": [
+			"http://placeluxembourg.lu"
+		],
+		"subreddit": [
+			"placeluxembourg"
+		],
+		"discord": [
+			"NNfmwcFHgr"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				1000,
+				-611
+			],
+			[
+				1000,
+				-644
+			],
+			[
+				1031,
+				-644
+			],
+			[
+				1032,
+				-644
+			],
+			[
+				1032,
+				-610
+			],
+			[
+				1000,
+				-610
+			]
+		]
+	},
+	"center": {
+		"254": [
+			1016,
+			-627
+		]
+	}
+}
